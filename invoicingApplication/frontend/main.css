@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+
+.invoiceItemLetter {
+    background-color: green;
+    color: green;
+    width: 2em;
+}
+
+.invoiceList {
+    width: 900px;
+}
+
+.invoiceItem {
+    width: 380px;
+    float: left;
+    position: relative; 
+}
